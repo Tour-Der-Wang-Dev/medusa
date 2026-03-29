@@ -31,7 +31,7 @@
     "watch": "tsc --build --watch"
   },
   "devDependencies": {
-    "@mikro-orm/core": "6.4.3",
+    "@mikro-orm/core": "6.6.10",
     "@mikro-orm/knex": "6.4.3",
     "@mikro-orm/migrations": "6.4.3",
     "@mikro-orm/postgresql": "6.4.3",
@@ -50,7 +50,7 @@
     "@medusajs/utils": "2.7.0"
   },
   "peerDependencies": {
-    "@mikro-orm/core": "6.4.3",
+    "@mikro-orm/core": "6.6.10",
     "@mikro-orm/knex": "6.4.3",
     "@mikro-orm/migrations": "6.4.3",
     "@mikro-orm/postgresql": "6.4.3",
