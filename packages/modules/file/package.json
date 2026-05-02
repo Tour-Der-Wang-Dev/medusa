@@ -39,7 +39,7 @@
     "@medusajs/framework": "2.7.0",
     "@medusajs/test-utils": "2.7.0",
     "@mikro-orm/cli": "6.4.3",
-    "@mikro-orm/core": "6.4.3",
+    "@mikro-orm/core": "6.6.10",
     "@mikro-orm/migrations": "6.4.3",
     "@mikro-orm/postgresql": "6.4.3",
     "@swc/core": "^1.7.28",
